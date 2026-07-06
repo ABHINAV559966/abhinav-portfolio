@@ -47,7 +47,7 @@ function Projects() {
           </h2>
 
           <p className="mx-auto mt-4 max-w-2xl text-slate-400">
-            Projects added through my portfolio admin panel.
+            A selection of projects I have built.
           </p>
         </div>
 
@@ -59,7 +59,7 @@ function Projects() {
               Projects will appear here soon
             </h3>
             <p className="mt-2 text-slate-400">
-              Add your first project from the admin dashboard.
+              Add projects from the admin dashboard.
             </p>
           </div>
         ) : (
